@@ -13,3 +13,5 @@ If you are already familiar with these topics, there are some Jupyter notebooks 
 - 06: Classification with scikit-learn
 - 07: Classification with articifical neural networks
 - 08: Convolutional neural networks for image classification
+
+These files are available under https://github.com/phi-max/tsp24/
